@@ -5,8 +5,6 @@ Each of these plugins are for the Adonis with can be found on github [here](http
 All credits go to [Sceleratis](https://github.com/Sceleratis/Adonis) for creation of Adonis.
 
 ## Donation Plugin List
-Patreon Linker - This gives people donor permission if they are a patreon donor.
-
 BuyMeACoffee Linker - This gives people donor permission if they have supported you through BuyMeACoffee.
 
 Kickstarter Linker - This gives people donor permission if they have backed your project through Kickstarter.
